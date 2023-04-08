@@ -3,7 +3,7 @@
     <div class="index-background">
       <span class="mask"></span>
       <div class="main-title_1">Hi, {{name}}</div>
-      <div class="main-title_2">欢迎使用「PINK」</div>
+      <div class="main-title_2">欢迎使用「Master」</div>
     </div>
     <el-row class="title">
       <el-col :span="8"><div class="grid-content"></div></el-col>

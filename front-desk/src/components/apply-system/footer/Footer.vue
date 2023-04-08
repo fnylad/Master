@@ -8,8 +8,8 @@
     <el-col :span="8">
       <div class="footer-content footer-left">
         <div class="bold footer-title">Contract</div>
-        <div class="middle">Huazhong University of Science and Technology</div>
-        <div class="middle">M202076625@hust.edu.cn</div>
+        <div class="middle">Hunan University of Science and Technology</div>
+        <div class="middle">fnylad@163.com</div>
       </div>
     </el-col>
     <el-col :span="8">

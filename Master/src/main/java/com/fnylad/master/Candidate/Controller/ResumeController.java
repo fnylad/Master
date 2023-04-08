@@ -52,6 +52,8 @@ public class ResumeController {
 
     //下载简历模板
     @RequestMapping(value = "/index/apply_resume/downloadtmp", method = RequestMethod.GET)
-    public String resumeTmpDownload(HttpServletResponse response,@RequestParam("m_id") Integer m_id,@RequestParam("phone") String phone){return resumeService.resumeTmpDownload(response,m_id,phone);}
+    public String resumeTmpDownload(HttpServletResponse response,@RequestParam("m_id") Integer m_id,@RequestParam("phone") String phone){
+        return resumeService.resumeTmpDownload(response,m_id,phone);
+    }
 
 }

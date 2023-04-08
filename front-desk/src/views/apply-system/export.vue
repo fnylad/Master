@@ -79,7 +79,7 @@ export default {
           m_id : this.$route.query.m_id,
           phone : localStorage.getItem("phone")
         },
-        responseType: 'blob' 
+        responseType: 'blob'
       })
       .then(function (res) {
 

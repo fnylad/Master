@@ -383,7 +383,7 @@ export default {
   },
   created(){
     const _this = this
-    this.$http.get('http://localhost:8085/hire/hire_profile/'+localStorage.getItem("r_id"))
+    this.$http.get('http://localhost:8085/hire/hire_profile/'+parseInt(localStorage.getItem("r_id")))
       .then(function (response) {
        _this.user=response.data;
        console.log(_this.user)

@@ -25,7 +25,7 @@ public class RecruitmentController {
     @RequestMapping("/hire/hire_release/insert")
     public Integer deleteRecruitment(@RequestBody Recruitment recruitment){
         recruitment.setCreated_time(new Date());
-        System.err.println(recruitment);
+        System.out.println(recruitment);
         return recruitmentService.insertOneRecruitment(recruitment);
     }
 
