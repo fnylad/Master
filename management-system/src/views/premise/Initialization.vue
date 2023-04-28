@@ -16,7 +16,7 @@
                 <h3>公司管理</h3>
                 <h4>
                   &nbsp;&nbsp;&nbsp;
-                  Use the <strong>PINKPanel</strong> to manage the members and related info.
+                  Use the <strong>MasterPanel</strong> to manage the members and related info.
                 </h4>
               </div>
               <el-row class="content_button">
@@ -38,7 +38,7 @@
                 <p>Admin</p>
                 <h3>后台管理</h3>
                 <h4>
-                  Use the <strong>PINKPanel</strong> to manage the companies, users and related info.
+                  Use the <strong>MasterPanel</strong> to manage the companies, users and related info.
                 </h4>
               </div>
               <el-row class="content_button">

@@ -9,7 +9,7 @@
             </el-col>
             <el-col :span="18">
               <ul>
-                <li class="main-title">PINK</li>
+                <li class="main-title">Master</li>
                 <li class="sub-title">Company Manage System</li>
               </ul>
             </el-col>

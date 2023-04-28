@@ -2,7 +2,7 @@
   <footer class="footer">
     <el-col :span="8">
       <div class="footer-content footer-left">
-        <div class="copyright footer-title">Copyright © 2021 Pink</div>
+        <div class="copyright footer-title">Copyright © 2023 Master</div>
       </div>
     </el-col>
     <el-col :span="8">
